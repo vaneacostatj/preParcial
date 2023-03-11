@@ -1,0 +1,1 @@
+print('no se le olvide aprender a recorrer una lista al reves para el examen')
